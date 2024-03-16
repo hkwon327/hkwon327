@@ -1,7 +1,8 @@
 ### Hi, good to see you 👋
 
 Welcome to my page! 
-I'm Ha-eun Kwon, a **Machine Learning/AI Engineer** based in **California**
+
+I'm Ha-eun Kwon, a **Machine Learning/AI Engineer** based in **California**🇺🇸
 
 Statistics and Data Science at **University of California, Santa Barbara**
 
