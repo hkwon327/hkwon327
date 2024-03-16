@@ -5,7 +5,7 @@ Welcome to my page!
 
 I'm **Ha-eun Kwon**, and you can call me **Hannah** as well. I'm a **Machine Learning/AI Engineer** based in **California**🇺🇸
 
-and currently a student specializing in Statistics and Data Science at the **University of California, Santa Barbara**
+and currently a student specializing in Statistics and Data Science at the **University of California, Santa Barbara**:)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ha-eun-kwon/)](https://www.linkedin.com/in/ha-eun-kwon/)
