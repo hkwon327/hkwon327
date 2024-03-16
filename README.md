@@ -1,5 +1,9 @@
-### Machine Learning/ AI Engineer 👋
+### Hi, good to see you 👋
 
+Welcome to my page! 
+I'm Ha-eun Kwon, a Machine Learning/AI Engineer based in California
+
+Statistics and Data Science at University of California, Santa Barbara
 <!--
 **hkwon327/hkwon327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
